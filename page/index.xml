@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on jwatkinson.dev</title>
+    <link>https://www.jwatkinson.dev/page/</link>
+    <description>Recent content in Pages on jwatkinson.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.jwatkinson.dev/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making a Tech Blog</title>
+      <link>https://www.jwatkinson.dev/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jwatkinson.dev/page/about/</guid>
+      <description>Designing and coding solutions to fix a variety of problems is a way of life for me.
+I&amp;rsquo;ve been working in tech for the better part of 15 years now, and along the way I&amp;rsquo;ve done deep dives into the cloud, coding, infrastructure, and have made it all a huge part of my career. My day job keeps me pretty busy, but there&amp;rsquo;s always been a part of me that likes to explore, open new doors, and discover things I may not get to use at work.</description>
+    </item>
+    
+  </channel>
+</rss>

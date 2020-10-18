@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/</loc>
+    <lastmod>2020-10-18T10:26:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/blog/</loc>
+    <lastmod>2020-10-18T10:26:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/blog/hugo/</loc>
+    <lastmod>2020-10-18T10:26:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.jwatkinson.dev/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jwatkinson.dev</title>
+    <link>https://www.jwatkinson.dev/blog/</link>
+    <description>Recent content on jwatkinson.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Oct 2020 10:26:36 -0500</lastBuildDate><atom:link href="https://www.jwatkinson.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Blog, in Hugo</title>
+      <link>https://www.jwatkinson.dev/blog/hugo/</link>
+      <pubDate>Sun, 18 Oct 2020 10:26:36 -0500</pubDate>
+      
+      <guid>https://www.jwatkinson.dev/blog/hugo/</guid>
+      <description>Why not kick things off with talking about Hugo, the static site generation tool?! I&amp;rsquo;ve heard lots of good things about Hugo for some time now, and I definitely have a preference for tools written in Golang (personal bias). It&amp;rsquo;s fast, easy to pick up, and create a quick web site in minutes. Well&amp;hellip; that&amp;rsquo;s an overstatement, I&amp;rsquo;m currently re-building this site in 4 ms each time I hit save.</description>
+    </item>
+    
+  </channel>
+</rss>
